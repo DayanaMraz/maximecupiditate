@@ -1,0 +1,52 @@
+{
+  "name": "maximecupiditate",
+  "version": "1.0.0",
+  "description": "Monorepo for the Firebase JavaScript SDK",
+  "author": "SabinaHickle",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/DayanaMraz/maximecupiditate.git",
+  "keywords": [
+    "nostrum",
+    "neque",
+    "esse",
+    "firebase",
+    "functions",
+    "realtime",
+    "aliquid"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DayanaMraz/maximecupiditate.git"
+  },
+  "workspaces": [
+    "packages/*",
+    "integration/*"
+  ],
+  "devDependencies": {
+    "chalk": "2.3.2",
+    "child-process-promise": "2.2.1",
+    "clone": "2.1.1",
+    "coveralls": "3.0.0",
+    "dependency-graph": "0.7.0",
+    "firebase-tools": "3.18.2",
+    "glob": "7.1.2",
+    "husky": "0.14.3",
+    "inquirer": "5.2.0",
+    "istanbul-instrumenter-loader": "3.0.1",
+    "lcov-result-merger": "2.0.0",
+    "lerna": "2.10.1",
+    "listr": "0.14.0",
+    "merge2": "1.2.1",
+    "mkdirp": "0.5.1",
+    "mz": "2.7.0",
+    "npm-run-path": "2.0.2",
+    "ora": "2.0.0",
+    "prettier": "1.12.0",
+    "semver": "5.5.0",
+    "simple-git": "1.92.0",
+    "yargs": "11.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/DayanaMraz/maximecupiditate.git/issues"
+  }
+}
